@@ -14,9 +14,9 @@ Demonstrar, com situações práticas e evidências, uma rotina de suporte de pr
 | --- | --- | --- |
 | [SD-001](01-chamados/SD-001.md) | Registro, triagem e resolução de incidente N1 (simulado no GLPI 11) | Concluído |
 | [SD-002](01-chamados/SD-002.md) | Lentidão em computador e escalonamento N1 → N2 | Roteiro pronto — execução pendente |
-| SD-003 | SQL básico aplicado a uma investigação | Planejado |
-| SD-004 | IA como apoio à análise e documentação | Planejado |
-| SD-005 | Base de conhecimento e testes funcionais | Planejado |
+| [SD-003](01-chamados/SD-003.md) | SQL básico aplicado à investigação | Demonstração escrita — execução pendente |
+| [SD-004](01-chamados/SD-004.md) | IA como apoio à análise e documentação | Demonstração escrita — validação pendente |
+| [SD-005](01-chamados/SD-005.md) | Base de conhecimento e testes funcionais | Artigo e plano preparados — testes pendentes |
 
 ## Organização
 
