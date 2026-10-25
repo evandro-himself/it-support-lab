@@ -13,7 +13,7 @@ Demonstrar, com situações práticas e evidências, uma rotina de suporte de pr
 | Caso | Tema | Status |
 | --- | --- | --- |
 | [SD-001](01-chamados/SD-001.md) | Registro, triagem e resolução de incidente N1 (simulado no GLPI 11) | Concluído |
-| SD-002 | Escalonamento N1 → N2 e boas práticas de ITIL | Planejado |
+| [SD-002](01-chamados/SD-002.md) | Lentidão em computador e escalonamento N1 → N2 | Roteiro pronto — execução pendente |
 | SD-003 | SQL básico aplicado a uma investigação | Planejado |
 | SD-004 | IA como apoio à análise e documentação | Planejado |
 | SD-005 | Base de conhecimento e testes funcionais | Planejado |
